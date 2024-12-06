@@ -68,7 +68,7 @@ const Footer = () => {
      
     </section>
     <div className={classes.copyright}>
-  <Link to="https://web.facebook.com/eliyasdaba.motuma" style={{ textDecoration: 'none', listStyle: 'none' , color:'white'}}>
+  <Link to="https://www.linkedin.com/in/eliyas-daba-b5793b27a/" style={{ textDecoration: 'none', listStyle: 'none' , color:'white'}}>
   <h4>Built By Eliyas Daba</h4>
   </Link>
 </div>
