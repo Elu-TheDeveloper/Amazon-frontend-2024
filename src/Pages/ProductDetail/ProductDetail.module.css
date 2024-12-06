@@ -1,0 +1,30 @@
+@media (max-width: 768px) {
+  /* Adjust card container layout */
+  .card_container {
+    padding: 10px;
+    max-width: 90%; /* Allow the card to take most of the screen width */
+    margin: 20px auto; /* Add some margin on top and bottom */
+  }
+
+  /* Adjust the font size for the title */
+  .card_container h3 {
+    font-size: 20px; /* Smaller title font on mobile */
+  }
+
+  /* Adjust the description text for smaller screens */
+  .card_container p {
+    font-size: 14px; /* Smaller font for description */
+    max-width: 100%; /* Remove the max width limit */
+    margin: 5px 0;
+  }
+
+  /* Adjust the price styling */
+  .card_container .currency {
+    font-size: 16px;
+  }
+
+  /* Adjust the button size for mobile */
+  .card_container .button {
+    font-size: 14px;
+    padding: 8px 16px;
+  }
