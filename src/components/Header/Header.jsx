@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import{Link} from 'react-router-dom'
-import classes from "./header.module.css"
+import classes from "./style.css"
 import { BsSearch } from "react-icons/bs";
 import { PiShoppingCartSimpleLight } from "react-icons/pi";
 import { SlLocationPin } from "react-icons/sl";
